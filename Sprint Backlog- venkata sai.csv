@@ -1,0 +1,30 @@
+Product Backlog ID,User Story ID,User Story Task Step Number,Task Step Description,,Assigned Date,Original Estimate,Adjustment Estimate,Status,Actual Effort
+,,,,,,,,,
+1,PECUNIA BANK:001,1,"Test Cases 
+Template",,03-08-2020,2 hrs,1 hrs,completed,
+,,2,"Product Backlog
+ Sheet",,03-08-2020,1 hrs,0.5 hrs,completed,
+,,3,Sprint plan sheet,,03-08-2020,1 hrs,0.5 hrs,completed,
+,,4,"Entity Class 
+Diagram",,04-08-2020,2 hrs,,,
+,,5,"Use Case 
+Diagram",,04-08-2020,2 hrs,,,
+,,6,"Sequence 
+Diagram",,04-08-2020,2 hrs,,,
+,,,,,,,,,
+2,PECUNIA BANK:002,1,Creating a Spring boot starter project,,,1hrs,0.5 hrs,,
+,,2,Adding dependencies in Pom.xml and initializing it,,,1 hrs,0.5 hrs,,
+,,3,"Adding server, jpa and logging properties in application.properties",,,1 hrs,0.5 hrs,,
+,,,,,,,,,
+3,PECUNIA BANK:003,1,PassBook Update,DAO,,3 hrs,1.5 hrs,,
+,,,,SERVICE,,3 hrs,1.5 hrs,,
+,,,,CONTROLLER,,3 hrs,1.5 hrs,,
+,,2,Account Summary,DAO,,3 hrs,1.5 hrs,,
+,,,,SERVICE,,3 hrs,1.5 hrs,,
+,,,,CONTROLLER,,3 hrs,1.5 hrs,,
+,,,,,,,,,
+4,PECUNIA BANK:004,1,Populating the test data in database,,,3 hrs,1hr,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+5,PECUNIA BANK:005,1,Testing the functionalites in postman,"DAO,SERVICE,CONTROLLER",,2 hrs,,,
